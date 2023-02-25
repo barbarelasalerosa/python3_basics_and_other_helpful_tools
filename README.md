@@ -9,7 +9,7 @@ First tool is showing a simple way how to manage your future registration(s) and
 Next, we will meet with libraries like phonenumbers, email_validator, ftplib etc. Some of them have not been used yet in this tool (log_in.py), but....
 Later, as we continue to build this petit project for python-beginners, we will encounter with more than above mentioned.
 
-Second tool shows us several types of basic cryptography in python that cn help you to learn more, and to search more, about not only cryptography in python, but CRYPTOGRAPHY itself.
+Second tool shows us several types of basic cryptography in python that can help you to learn more, and to search more, about not only cryptography in python, but CRYPTOGRAPHY itself.
 
 This is just a beginning! Stay tuned with BaRbArElA-sAlErOsA
 
